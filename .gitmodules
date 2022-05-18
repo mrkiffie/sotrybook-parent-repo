@@ -1,0 +1,3 @@
+[submodule "storybook-submodule"]
+	path = storybook-submodule
+	url = https://github.com/mrkiffie/storybook-submodule
